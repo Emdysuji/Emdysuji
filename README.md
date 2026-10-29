@@ -41,7 +41,7 @@ I build AI and automation systems, from deep-learning vision models to workflow 
 | [**FlowForge**](https://github.com/Emdysuji/FlowForge) | FastAPI workflow-automation backend that runs JSON-defined, plugin-based automations |
 | [**TerraLeaf-AI**](https://github.com/Emdysuji/TerraLeaf-AI) | Plant disease classification across 10 species to support agriculture |
 | [**YouTube Reply Bot**](https://github.com/Emdysuji/YoutubeCommentBot) | Replies to your YouTube comments with Gemini AI, available as a Windows EXE or Linux binary |
-| [**Google Map Info Scraper**](https://github.com/Emdysuji/google-map-info-scraper) | Extracts organization details from websites with Selenium |
+| [**Resilient Scraping Pipeline**](https://github.com/Emdysuji/resilient-scraping-pipeline) | Extracts organization details from websites with Selenium |
 
 ## 📊 GitHub stats
 
